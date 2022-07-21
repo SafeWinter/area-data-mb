@@ -1,0 +1,13 @@
+{
+  "name": "area-data-mb",
+  "main": "./data.js",
+  "description": "中国省、市、区数据",
+  "authors": "andong_2007@qq.com",
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!data.js",
+    "!LICENSE",
+    "!README.md"
+  ]
+}
